@@ -24,4 +24,4 @@ Remember to  the uploaded files in the source directory if you're using SFTP, ot
 
 Enjoy :)
 
-***Disclaimer: I offer no warranty for the provided code, run at your own risk. Really thought it's fine, but... if you screw it up, it ain't on me!! :)***
+***Disclaimer: I offer no warranty for the provided code, run at your own risk. Really though it's fine, but... if you screw it up, it ain't on me!! :)***
